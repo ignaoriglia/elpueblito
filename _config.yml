@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - Información: "https://ignaoriglia.github.io/elpueblito/informacion/"
-  - Fotos: "https://ignaoriglia.github.io/elpueblito/galeria/"
-  - Paseos: "https://ignaoriglia.github.io/elpueblito/paseos/"
+  - Información: "https://ignaoriglia.github.io/elpueblito/about/"
+  - Fotos: "https://ignaoriglia.github.io/elpueblito/gallery/"
+  - Paseos: "https://ignaoriglia.github.io/elpueblito/journal/"
 
 
 # All translation keys
