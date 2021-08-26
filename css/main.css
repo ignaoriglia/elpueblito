@@ -7,6 +7,9 @@ body {
 p {
   line-height: 1.5;
   margin: 30px 0;
+  color: white;
+  text-shadow: 3px 3px 5px black;
+
 }
 p a {
   text-decoration: none;
@@ -14,15 +17,26 @@ p a {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  color: white;
+  text-shadow: 3px 3px 5px black;
+
 }
+h4 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  color: lightgrey;
+  text-shadow: 3px 3px 5px black;
+
+}
+
 a {
-  color: #760824;
+  color: black;
   transition: color .4s;
+
   text-decorarion: none;
 }
 a:hover,
@@ -115,7 +129,7 @@ hr.small {
   .navbar-custom.is-fixed .navbar-brand:hover {
     color: #0085a1;
   }
-  
+
   .navbar-custom.is-fixed .nav li a:hover {
     color: #0085a1;
   }
@@ -405,4 +419,3 @@ body {
 .fa-stack-2x {
  color: black;
 }
-

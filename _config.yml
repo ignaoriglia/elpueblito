@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Ignacio
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: turismo en el valle de calamuchita
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://ignaoriglia.github.io/elpueblito/gallery/"
-  - JOURNAL: "https://ignaoriglia.github.io/elpueblito/journal/"
-  - ABOUT: "https://ignaoriglia.github.io/elpueblito/about/"
+  - Información: "https://ignaoriglia.github.io/elpueblito/informacion/"
+  - Fotos: "https://ignaoriglia.github.io/elpueblito/galeria/"
+  - Paseos: "https://ignaoriglia.github.io/elpueblito/paseos/"
+
 
 # All translation keys
 translations:
