@@ -1,20 +1,71 @@
 ---
 layout: page
-title: "album"
-description: "masonry"
+title: "Casa el Dodó"
+description: "una vista para disfrutar"
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 1st album"
+header-img: "img/web-interior-8.jpg"
+album-title: "Interiores"
 images:
- - image_path: /gallery/archive/g01/bg1.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g01/bg2.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g01/bg3.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
+ - image_path: /gallery/archive/g01/web-interior-1.jpg
+   caption: habitación 1
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-2.jpg
+   caption: habitación 1
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-3.jpg
+   caption: habitación 1
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-4.jpg
+   caption: baño
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-20.jpg
+   caption: baño
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-21.jpg
+   caption: baño
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-5.jpg
+   caption: ante baño
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-6.jpg
+   caption: Living comedor
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-7.jpg
+   caption: Living comedor
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-9.jpg
+   caption: Living comedor
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-10.jpg
+   caption: Living comedor
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-11.jpg
+   caption: Living comedor
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-12.jpg
+   caption: cocina
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-13.jpg
+   caption: cocina
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-14.jpg
+   caption: cocina
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-15.jpg
+   caption: habitacion 2
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-16.jpg
+   caption: habitacion 2
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-17.jpg
+   caption: habitacion 2
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-18.jpg
+   caption: garage
+   copyright: © ORI
+ - image_path: /gallery/archive/g01/web-interior-19.jpg
+   caption: garage
+   copyright: © ORI
 ---
 
 <html class="no-js" lang="en">
@@ -23,7 +74,7 @@ images:
 </head>
 
     <body>
- 
+
 	<section id="content" role="main">
 		<div class="wrapper">
 	<br><br>
@@ -32,16 +83,16 @@ images:
 
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
-		
-{% for image in page.images %}  		
+
+{% for image in page.images %}
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
 <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.copyright }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-						
-					</header>	
+
+					</header>
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary" id="{{ image.caption }}">
 							<h3>{{image.caption}}</h3>
@@ -49,7 +100,7 @@ images:
 						</div>
 					</figcaption>
 				</figure>
-				
+
 {% endfor %}
 
 			</div>
@@ -57,7 +108,7 @@ images:
 		</div><!-- END .wrapper -->
 	</section>
 
-<!-- jQuery -->    
+<!-- jQuery -->
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- include image popups -->
@@ -84,7 +135,7 @@ image: {
 
 <script src="{{ site.baseurl }}/js/retina.min.js"></script>
 <!-- include Masonry -->
-<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
 <!-- include mousewheel plugins -->
 <script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->
@@ -96,5 +147,5 @@ image: {
 <!-- Modernizr -->
  <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 
-    
+
 </body></html>
