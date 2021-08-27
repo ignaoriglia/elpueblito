@@ -1,21 +1,89 @@
 ---
 layout: page
-title: "album"
-description: "masonry"
+title: "Barrio El Pueblito"
+description: "Embalse del Río Tercero, Calamuchita, Córdoba, Argentina"
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 3rd album"
+header-img: "img/web-barrio.jpg"
+album-title: "Un lugar donde se respira paz"
 images:
- - image_path: /gallery/archive/g03/bg1.jpg
-   caption: IMAGE TITLE
-   mfp-title: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g03/bg2.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g03/bg3.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
+- image_path: /gallery/archive/g03/web-barrio-1.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-2.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-3.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-4.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-5.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-6.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-7.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-8.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-9.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-10.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-11.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-12.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-13.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-14.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-15.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-16.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-17.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-18.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-19.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-20.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-21.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-22.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-23.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-24.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-25.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-26.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-27.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-28.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-29.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-30.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-31.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-32.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-33.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-34.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-35.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-36.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-37.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-39.jpg
+  copyright: © ORI
+- image_path: /gallery/archive/g03/web-barrio-41.jpg
+  copyright: © ORI
 ---
 
 <html class="no-js" lang="en">
@@ -24,7 +92,7 @@ images:
 </head>
 
     <body>
- 
+
 	<section id="content" role="main">
 		<div class="wrapper">
 	<br><br>
@@ -33,16 +101,16 @@ images:
 
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
-		
-{% for image in page.images %}  		
+
+{% for image in page.images %}
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
 <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-						
-					</header>	
+
+					</header>
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary">
 							<h3>{{image.caption}}</h3>
@@ -50,7 +118,7 @@ images:
 						</div>
 					</figcaption>
 				</figure>
-				
+
 {% endfor %}
 
 			</div>
@@ -58,14 +126,14 @@ images:
 		</div><!-- END .wrapper -->
 	</section>
 
-<!-- jQuery -->    
+<!-- jQuery -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- include image popups -->
 <script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
 <script src="{{ site.baseurl }}/js/retina.min.js"></script>
 <!-- include Masonry -->
-<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
 <!-- include mousewheel plugins -->
 <script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->
