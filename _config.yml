@@ -7,10 +7,7 @@ baseurl: "/"
 facebook_username: "/descubrielpueblito/"
 twitter_username: "/descubrielpueblito/"
 instagram_username: "/descubrielpueblito/"
-github_username:  ""
-deviantart_username: ""
-flickr_username: "https://www.flickr.com/photos/194045382@N04/"
-discus_shortname: ""
+flickr_username: "/photos/194045382@N04/"
 share: true
 
 # Owner/author information
