@@ -1,10 +1,10 @@
 # Site settings
-title: El Pueblito
+title: Descubrí el Pueblito
 email: "descubrielpueblito@gmail.com"
 description: "Viví una experiencia inolvidable"
-url: "https://ignaoriglia.github.io"
-baseurl: "/elpueblito"
-facebook_username: ""
+url: "https://descubrielpueblito.ar"
+baseurl: "/"
+facebook_username: "Descubr%C3%AD-el-pueblito-106115978504044"
 twitter_username: ""
 instagram_username: ""
 github_username:  ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - Información: "https://ignaoriglia.github.io/elpueblito/about/"
-  - Fotos: "https://ignaoriglia.github.io/elpueblito/gallery/"
-  - Lugares para conocer: "https://ignaoriglia.github.io/elpueblito/journal/"
+  - Información: "/about/"
+  - Fotos: "/gallery/"
+  - Lugares para conocer: "/journal/"
 
 
 # All translation keys
