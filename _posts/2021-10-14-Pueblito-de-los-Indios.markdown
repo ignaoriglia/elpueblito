@@ -18,7 +18,7 @@ comments: false
 
 Tanto es así, que la empresa inglesa que tenía a cargo la construcción de las vías del Ferrocarril Argentino en el tramo de Almafuerte-Buenos Aires sufría pérdidas materiales durante dichas crecidas en localidades Río abajo como Río Tercero o Villa María.
 
-Para solucionar este problema se propuso la construcción de un dique de contención en el lugar conocido como el _pueblito de los indios_; lo que hoy es nuestro querido Embalse.
+Para solucionar este problema se propuso la construcción de un dique de contención en el lugar conocido como el _pueblito de los indios_; nombre que hace alusión a las Comunidades de Pueblos Originarios, específicamente el Pueblo Comechongón, que habitó ancestralmente los márgenes del Río Ctalamochita hasta que comenzó el etnocidio español hace 500 años durante la conquista de América.
 
 Una vez aprobado el proyecto, se instalan los campamentos y comienzan tareas relacionadas con la construcción del dique. El 11 de Diciembre de 1911, en un acto oficial, se coloca la piedra fundamental del dique y esa fecha fue tomada posteriormente como la fundación de Embalse.
 
