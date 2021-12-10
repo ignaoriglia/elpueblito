@@ -5,7 +5,7 @@ subtitle:   "Los orígenes del pueblito de los indios"
 active: journal
 image:
   feature: "web-barrio-29.jpg"
-date:       2020-09-16
+date:       2021-09-16
 header-img: "img/postcover/gruta-1.jpg"
 tags:
 categories:

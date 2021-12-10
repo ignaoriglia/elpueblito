@@ -4,9 +4,9 @@ title:      "Paseos en kayaks por el lago"
 subtitle:   "Distancias y tiempos a convenir"
 active: journal
 image:
-  feature: "kayak.PNG"
+  feature: "11.jpg"
 date:       2021-12-8
-header-img: "img/postcover/7.jpg"
+header-img: "img/kayak/lago/24.jpg"
 tags:
 categories:
 comments: false
@@ -36,7 +36,7 @@ __Propuestas de paseos:__
 
 - En caso que las ganas y el estado físico lo permitan, al recorrido anterior se le puede sumar conocer las islas que se encuentran frente al vertedero totalizando un recorrido de 1 hora y 20 minutos
 
-![Lago](/img/kayak/lago/10.jpg)
+![Lago](/img/kayak/lago/25.jpg)
 
 ![Lago](/img/kayak/lago/14.jpg)
 

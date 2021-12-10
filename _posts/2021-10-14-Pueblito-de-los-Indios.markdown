@@ -4,7 +4,7 @@ title:      "El Pueblito de los Indios"
 subtitle:   "Un paseo por la historia de Embalse"
 active: journal
 image:
-  feature: "1.jpg"
+  feature: "11.jpg"
 date:       2021-10-14
 header-img: "img/postcover/1.jpg"
 tags:
