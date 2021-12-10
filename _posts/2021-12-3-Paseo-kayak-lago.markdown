@@ -57,3 +57,4 @@ __Propuestas de paseos:__
 
 ![Lago](/img/kayak/lago/19.jpg)
 
+![Lago](/img/kayak/lago/kayak.PNG)
