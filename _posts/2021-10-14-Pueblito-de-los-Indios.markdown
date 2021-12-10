@@ -5,7 +5,7 @@ subtitle:   "Un paseo por la historia de Embalse"
 active: journal
 image:
   feature: "11.jpg"
-date:       2021-10-14
+date:       2020-1-11
 header-img: "img/postcover/1.jpg"
 tags:
 categories:

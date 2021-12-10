@@ -4,21 +4,25 @@ title:      "Gruta San Martín de Porres"
 subtitle:   "Los orígenes del pueblito de los indios"
 active: journal
 image:
-  feature: "web-barrio-29.jpg"
-date:       2021-09-16
+  feature: "17.jpg"
+date:      2021-11-6
 header-img: "img/postcover/gruta-1.jpg"
 tags:
 categories:
 comments: false
 ---
 
-Saliendo caminando desde el Barrio el Pueblito, en un recorrido a través de calles y senderos, podrás observar hermosas vistas panorámicas del barrio, del lago y de gran parte del valle de Calamuchita. La propuesta contempla la historia del pueblo y los sucesos más importantes que han ocurrido.
+Saliendo caminando desde el Barrio el Pueblito, en un recorrido a través de calles y senderos, podrás observar hermosas vistas panorámicas del barrio, del lago y de gran parte del valle de Calamuchita. La propuesta contempla la historia del pueblo con los sucesos más importantes que han ocurrido y se puede optar por un recorrido de 1 hora de duración hasta la gruta y otro de 2 horas que incluye también el circuito del vía crusis que llega hasta el frente del Club Náutico de Embalse.
 
-![Lago](/img/caminata/gruta/15.jpg)
+![Lago](/img/caminata/gruta/21.jpg)
 
-![Lago](/img/caminata/gruta/13.jpg)
+![Lago](/img/caminata/gruta/16.jpg)
 
-![Lago](/img/caminata/gruta/12.jpg)
+![Lago](/img/caminata/gruta/18.jpg)
+
+![Lago](/img/caminata/gruta/19.jpg)
+
+![Lago](/img/caminata/gruta/20.jpg)
 
 ![Lago](/img/caminata/gruta/14.jpg)
 
@@ -39,7 +43,3 @@ Saliendo caminando desde el Barrio el Pueblito, en un recorrido a través de cal
 ![Lago](/img/caminata/gruta/11.jpg)
 
 ![Lago](/img/caminata/gruta/10.jpg)
-
-
-
-![Lago](/img/caminata/gruta/1.jpg)

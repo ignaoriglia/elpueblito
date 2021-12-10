@@ -44,8 +44,6 @@ __Propuestas de paseos:__
 
 ![Lago](/img/kayak/lago/16.jpg)
 
-![Lago](/img/kayak/lago/17.jpg)
-
 ![Lago](/img/kayak/lago/18.jpg)
 
 
